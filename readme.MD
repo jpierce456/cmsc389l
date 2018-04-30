@@ -17,4 +17,4 @@ The Pomodoro dash button allows a user to use an [Amazon Dash Button](https://aw
 
 ## Architecture
 
-![Click here to view the architecture diagram](https://cloudcraft.co/view/9a40b885-d871-49c6-a4bd-f33ced8823c1?key=04oM17g6aihON4JfXvibUw)
+[Click here to view the architecture diagram](https://cloudcraft.co/view/9a40b885-d871-49c6-a4bd-f33ced8823c1?key=04oM17g6aihON4JfXvibUw)
